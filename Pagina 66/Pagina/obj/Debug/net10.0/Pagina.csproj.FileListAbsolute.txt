@@ -1,0 +1,14 @@
+C:\Users\alexa\Downloads\Pagina 66\Pagina\bin\Debug\net10.0\Pagina.exe
+C:\Users\alexa\Downloads\Pagina 66\Pagina\bin\Debug\net10.0\Pagina.deps.json
+C:\Users\alexa\Downloads\Pagina 66\Pagina\bin\Debug\net10.0\Pagina.runtimeconfig.json
+C:\Users\alexa\Downloads\Pagina 66\Pagina\bin\Debug\net10.0\Pagina.dll
+C:\Users\alexa\Downloads\Pagina 66\Pagina\bin\Debug\net10.0\Pagina.pdb
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\Pagina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\Pagina.AssemblyInfoInputs.cache
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\Pagina.AssemblyInfo.cs
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\Pagina.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\Pagina.dll
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\refint\Pagina.dll
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\Pagina.pdb
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\Pagina.genruntimeconfig.cache
+C:\Users\alexa\Downloads\Pagina 66\Pagina\obj\Debug\net10.0\ref\Pagina.dll

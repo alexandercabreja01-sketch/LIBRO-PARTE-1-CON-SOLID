@@ -1,0 +1,14 @@
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\bin\Debug\net8.0\ColegioSimple.exe
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\bin\Debug\net8.0\ColegioSimple.deps.json
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\bin\Debug\net8.0\ColegioSimple.runtimeconfig.json
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\bin\Debug\net8.0\ColegioSimple.dll
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\bin\Debug\net8.0\ColegioSimple.pdb
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ColegioSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ColegioSimple.AssemblyInfoInputs.cache
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ColegioSimple.AssemblyInfo.cs
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ColegioSimple.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ColegioSimple.dll
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\refint\ColegioSimple.dll
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ColegioSimple.pdb
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ColegioSimple.genruntimeconfig.cache
+C:\Users\alexa\Downloads\ColegioSimple\ColegioSimple\obj\Debug\net8.0\ref\ColegioSimple.dll
